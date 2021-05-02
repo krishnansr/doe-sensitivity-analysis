@@ -1,3 +1,7 @@
+"""
+package - pip install doepy
+pyDOE original package dcs - https://pythonhosted.org/pyDOE/factorial.html
+"""
 import warnings
 warnings.filterwarnings('ignore')
 
